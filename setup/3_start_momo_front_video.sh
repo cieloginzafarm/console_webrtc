@@ -1,5 +1,5 @@
 #!/bin/sh
-cd ..
+cd ../..
 
 echo "Initializing Front Video..."
 # Front Video

@@ -1,5 +1,5 @@
 #!/bin/sh
-cd ..
+cd ../..
 
 echo "Initializing Back Video..."
 # Back Video
