@@ -1,0 +1,27 @@
+{
+  "TELEMETRY": {
+    "POS": {
+      "LAT": 45.6778614,
+      "LON": 120.7703167,
+      "ALT": 24.123
+    },
+    "ATT": {
+      "ROLL": 3.75,
+      "PITCH": 2.23,
+      "YAW": 57.12
+    },
+    "DIST": {
+      "TRAVELLED": 26.642,
+      "TOHOME": 46.34
+    },
+    "SPEED": {
+      "AIR": 5.345,
+      "GROUND": 4.334
+    },
+    "BATT": {
+      "VOLT": 24.3
+    },
+    "MODE": "AUTO",
+    "GPS": "RTKFLT"
+  }
+}
